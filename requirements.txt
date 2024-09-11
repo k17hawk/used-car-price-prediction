@@ -1,3 +1,4 @@
+azureml-sdk
 numpy
 scikit-learn
 pandas
