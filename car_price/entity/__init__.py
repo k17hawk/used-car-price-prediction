@@ -1,0 +1,2 @@
+from car_price.entity.artifact_entity import DataIngestionArtifact
+from car_price.entity.config_entity import DataIngestionConfig

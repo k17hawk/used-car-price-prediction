@@ -173,3 +173,5 @@ jupyter/.azureml/
 jupyter/path/
 jupyter/scaler_model/
 jupyter/environment_setup.ipynb
+artifact/
+logs/
